@@ -1,0 +1,43 @@
+[
+    {
+     "caten": "food",
+     "catpe": "خوراک",
+     "catid": 10000,
+     "pricemin": 1,
+     "pricemax": 180,
+     "priceavg": 90,
+     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+     "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    },
+    {
+     "caten": "clothes",
+     "catpe": "لباس",
+     "catid": 10001,
+     "pricemin": 100,
+     "pricemax": 2000,
+     "priceavg": 1050,
+     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+     "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    }  ,
+    {
+    "caten": "house",
+    "catpe": "اجاره خونه",
+    "catid": 10002,
+    "pricemin": 500,
+    "pricemax": 10000,
+    "priceavg": 5250,
+    "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+    "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    },
+    {
+    "caten": "supermarket",
+    "catpe": "سوپرمارکتی",
+    "catid": 10003,
+    "pricemin": 500000,
+    "pricemax": 100000000,
+    "priceavg": 1050,
+    "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+    "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    }
+  
+   ]

@@ -1,2 +1,2 @@
 # financemanagerstaticrepository
-lotka finance manager static repository
+lotka finance manager static repository 
