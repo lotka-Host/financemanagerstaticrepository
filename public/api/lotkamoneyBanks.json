@@ -7,9 +7,9 @@
   "confirmed": true,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mellilogo.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mellilogo.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mellilogo.png"
  },
  {
   "bankEn": "mellat",
@@ -19,9 +19,9 @@
   "confirmed": true,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mellatlogo.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mellatlogo.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "tejarat",
@@ -31,9 +31,9 @@
   "confirmed": true,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/tejaratlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/tejaratlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/tejaratlogo.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/tejaratlogo.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/tejaratlogo.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/tejaratlogo.png"
  },
  {
   "bankEn": "saderat",
@@ -43,9 +43,9 @@
   "confirmed": true,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Saderatlogo.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Saderatlogo.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Saderatlogo.png"
  },
  {
   "bankEn": "sepah",
@@ -55,9 +55,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/sepahlogo.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/sepahlogo.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/sepahlogo.png"
  },
  {
   "bankEn": "day",
@@ -67,9 +67,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Dayabank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Dayabank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Dayabank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Dayabank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Dayabank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Dayabank.png"
  },
  {
   "bankEn": "ansar",
@@ -79,9 +79,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/ansarbank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/ansarbank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/ansarbank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/ansarbank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/ansarbank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/ansarbank.png"
  },
  {
   "bankEn": "eqtesadnovin",
@@ -91,9 +91,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/eghtesadnovinbank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/eghtesadnovinbank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/eghtesadnovinbank.png"
  },
  {
   "bankEn": "Keshavarzi",
@@ -103,9 +103,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Keshavarzibank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Keshavarzibank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Keshavarzibank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Keshavarzibank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Keshavarzibank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Keshavarzibank.png"
  },
  {
   "bankEn": "maskanbank",
@@ -115,9 +115,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/maskanbank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/maskanbank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/maskanbank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/maskanbank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/maskanbank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/maskanbank.png"
  },
  {
   "bankEn": "Mehriran",
@@ -127,9 +127,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mehriran.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mehriran.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mehriran.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mehriran.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mehriran.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Mehriran.png"
  },
  {
   "bankEn": "shahrbank",
@@ -139,9 +139,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/shahrbank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/shahrbank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/shahrbank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/shahrbank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/shahrbank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/shahrbank.png"
  },
  {
   "bankEn": "sinabank",
@@ -151,9 +151,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sinabank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sinabank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sinabank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/sinabank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/sinabank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/sinabank.png"
  },
  {
   "bankEn": "samanbank",
@@ -163,9 +163,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/samanbank.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/samanbank.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/samanbank.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/samanbank.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/samanbank.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/samanbank.png"
  },
  {
   "bankEn": "Parsianabnk",
@@ -175,9 +175,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Parsianabnk.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Parsianabnk.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Parsianabnk.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Parsianabnk.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Parsianabnk.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/Parsianabnk.png"
  },
  {
   "bankEn": "pasargodbnk",
@@ -187,8 +187,8 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/pasargodbnk.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/pasargodbnk.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/pasargodbnk.png"
+  "icSmall": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/pasargodbnk.png",
+  "icNor": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/pasargodbnk.png",
+  "icBig": "https://lotka-host.github.io/financemanagerstaticrepository/public/images/pasargodbnk.png"
  }
 ]
