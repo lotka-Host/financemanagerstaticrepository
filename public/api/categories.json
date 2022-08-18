@@ -6,38 +6,41 @@
      "pricemin": 1,
      "pricemax": 180,
      "priceavg": 90,
-     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
-     "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
-    },
+     "icon": "/images/categories/cat_resturant.png",
+     "code": "null"
+    }
+    ,
     {
-     "caten": "clothes",
-     "catpe": "لباس",
-     "catid": 10001,
-     "pricemin": 100,
-     "pricemax": 2000,
-     "priceavg": 1050,
-     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
-     "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
-    }  ,
+    "caten": "clothes",
+    "catpe": "لباس",
+    "catid": 10001,
+    "pricemin": 1,
+    "pricemax": 180,
+    "priceavg": 90,
+    "icon": "/images/categories/cat_shirt.png",
+    "code": "null"
+    }
+    ,
     {
-    "caten": "house",
+    "caten": "home",
     "catpe": "اجاره خونه",
     "catid": 10002,
-    "pricemin": 500,
-    "pricemax": 10000,
-    "priceavg": 5250,
-    "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
-    "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
-    },
-    {
-    "caten": "supermarket",
-    "catpe": "سوپرمارکتی",
-    "catid": 10003,
-    "pricemin": 500000,
-    "pricemax": 100000000,
-    "priceavg": 1050,
-    "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
-    "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    "pricemin": 1,
+    "pricemax": 180,
+    "priceavg": 90,
+    "icon": "/images/categories/cat_home.png",
+    "code": "null"
     }
-  
-   ]
+    ,
+    {
+    "caten": "cigaret",
+    "catpe": "سیگار",
+    "catid": 10003,
+    "pricemin": 1,
+    "pricemax": 180,
+    "priceavg": 90,
+    "icon": "/images/categories/cat_cigret.png",
+    "code": "null"
+    }
+]
+   
