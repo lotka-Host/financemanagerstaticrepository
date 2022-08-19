@@ -8,8 +8,8 @@
      "priceavg": 90,
      "icon": "/images/categories/cat_resturant.png",
      "code": "null",
-     "parentId": 0,
-     "isParent": true
+     "parentid": 0,
+     "isparent": true
     }
     ,
     {
@@ -21,8 +21,8 @@
     "priceavg": 90,
     "icon": "/images/categories/cat_shirt.png",
     "code": "null",
-    "parentId": 0,
-    "isParent": true
+    "parentid": 0,
+    "isparent": true
     }
     ,
     {
@@ -34,8 +34,8 @@
     "priceavg": 90,
     "icon": "/images/categories/cat_home.png",
     "code": "null",
-    "parentId": 0,
-    "isParent": true
+    "parentid": 0,
+    "isparent": true
     }
     ,
     {
@@ -47,8 +47,8 @@
     "priceavg": 90,
     "icon": "/images/categories/cat_cigret.png",
     "code": "null",
-    "parentId": 0,
-    "isParent": true
+    "parentid": 0,
+    "isparent": true
     }
 ]
    
