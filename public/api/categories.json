@@ -37,6 +37,20 @@
     "parentid": 0,
     "isparent": true
     }
+
+    ,
+    {
+        "caten": "tishirt",
+        "catpe": "پیراهن",
+        "catid": 100351,
+        "pricemin": 1,
+        "pricemax": 180,
+        "priceavg": 90,
+        "icon": "/images/categories/cat_shirt.png",
+        "code": "null",
+        "parentid": 10001,
+        "isparent": false
+    }
     ,
     {
     "caten": "home",
