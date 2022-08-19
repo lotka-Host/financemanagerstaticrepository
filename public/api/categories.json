@@ -11,24 +11,25 @@
      "parentid": 0,
      "isparent": true
     }
-    ,
-    {
-        "caten": "fastfood",
-        "catpe": "فست فود",
-        "catid": 100834,
-        "pricemin": 1,
-        "pricemax": 180,
-        "priceavg": 90,
-        "icon": "/images/categories/cat_resturant.png",
-        "code": "null",
-        "parentid": 10000,
-        "isparent": false
-    }
-       ,
+                ,
+                    {
+                    "caten": "fastfood",
+                    "catpe": "فست فود",
+                    "catid": 10001,
+                    "pricemin": 1,
+                    "pricemax": 180,
+                    "priceavg": 90,
+                    "icon": "/images/categories/cat_resturant.png",
+                    "code": "null",
+                    "parentid": 10000,
+                    "isparent": false
+                    }
+                ,
+
     {
     "caten": "clothes",
     "catpe": "لباس",
-    "catid": 10001,
+    "catid": 11000,
     "pricemin": 1,
     "pricemax": 180,
     "priceavg": 90,
@@ -38,24 +39,26 @@
     "isparent": true
     }
 
-    ,
-    {
-        "caten": "tishirt",
-        "catpe": "پیراهن",
-        "catid": 100351,
-        "pricemin": 1,
-        "pricemax": 180,
-        "priceavg": 90,
-        "icon": "/images/categories/cat_shirt.png",
-        "code": "null",
-        "parentid": 10001,
-        "isparent": false
-    }
-    ,
+                ,
+                    {
+                        "caten": "tishirt",
+                        "catpe": "پیراهن",
+                        "catid": 11001,
+                        "pricemin": 1,
+                        "pricemax": 180,
+                        "priceavg": 90,
+                        "icon": "/images/categories/cat_shirt.png",
+                        "code": "null",
+                        "parentid": 10001,
+                        "isparent": false
+                    }
+
+                ,
+
     {
     "caten": "home",
-    "catpe": "اجاره خونه",
-    "catid": 10002,
+    "catpe": "مسکن",
+    "catid": 12000,
     "pricemin": 1,
     "pricemax": 180,
     "priceavg": 90,
@@ -64,11 +67,51 @@
     "parentid": 0,
     "isparent": true
     }
-    ,
+            ,
+                    {
+                    "caten": "home",
+                    "catpe": "اجاره منزل",
+                    "catid": 12001,
+                    "pricemin": 1,
+                    "pricemax": 180,
+                    "priceavg": 90,
+                    "icon": "/images/categories/cat_home.png",
+                    "code": "null",
+                    "parentid": 0,
+                    "isparent": false
+                    }
+                    ,
+                    {
+                    "caten": "home",
+                    "catpe": "شارژ ساختمان",
+                    "catid": 12002,
+                    "pricemin": 1,
+                    "pricemax": 180,
+                    "priceavg": 90,
+                    "icon": "/images/categories/cat_home.png",
+                    "code": "null",
+                    "parentid": 0,
+                    "isparent": false
+                    }
+                    ,
+                    {
+                    "caten": "home",
+                    "catpe": "وسایل منزل",
+                    "catid": 12003,
+                    "pricemin": 1,
+                    "pricemax": 180,
+                    "priceavg": 90,
+                    "icon": "/images/categories/cat_home.png",
+                    "code": "null",
+                    "parentid": 0,
+                    "isparent": false
+                    }
+,
+    
     {
     "caten": "cigaret",
     "catpe": "سیگار",
-    "catid": 10003,
+    "catid": 13000,
     "pricemin": 1,
     "pricemax": 180,
     "priceavg": 90,
