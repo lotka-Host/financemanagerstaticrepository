@@ -13,6 +13,19 @@
     }
     ,
     {
+        "caten": "fastfood",
+        "catpe": "فست فود",
+        "catid": 100834,
+        "pricemin": 1,
+        "pricemax": 180,
+        "priceavg": 90,
+        "icon": "/images/categories/cat_resturant.png",
+        "code": "null",
+        "parentid": 10000,
+        "isparent": false
+    }
+       ,
+    {
     "caten": "clothes",
     "catpe": "لباس",
     "catid": 10001,
